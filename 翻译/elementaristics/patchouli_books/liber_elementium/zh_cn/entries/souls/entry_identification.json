@@ -28,46 +28,46 @@
       "type": "spotlight",
       "title": "大气灵魂",
       "item": "elementaristics:essence:0",
-      "text": "由于在其创生过程中，大气源素占据了主导地位, these souls have developed an affinity for said aspect.$(br)Creatures of these souls tend to be agile, fast and deft."
+      "text": "由于在其创生过程中，大气源素占据了主导地位, 这些灵魂更为亲近该源素。$(br拥有这种种类的灵魂的生物会比其它的生物更为敏捷迅速。"
     },
     {
       "type": "spotlight",
-      "title": "Earth Soul",
+      "title": "Ear大地灵魂th Soul",
       "item": "elementaristics:essence:1",
-      "text": "These souls are bound to earth and the body.$(br)Creatures of these souls are sturdy like stone, and tend to have connections to the more material world."
+      "text": "这些灵魂与大地和身体有关。$(br)为该类型灵魂的生物，身体坚若磐石，并更容易出现于拥有更多资源的世界。"
     },
     {
       "type": "spotlight",
-      "title": "Fire Soul",
+      "title": "火之灵魂",
       "item": "elementaristics:essence:3",
-      "text": "Fire souls burn with the raw energy of fire. Their passion is expressed in warmth, and their rage is put to use in flames.$(br)They have a potential of power generally not seen in common souls."
+      "text": "火之灵魂与火焰中那原生的力量一般，在不断地燃烧。他们的热情让人感到温暖，他们的愤怒则像烈焰那般灼烧敌人。$(br)T他们所拥有的在力量上的潜力，是其它普通灵魂所不具备的。"
     },
     {
       "type": "spotlight",
-      "title": "Water Soul",
+      "title": "水之灵魂",
       "item": "elementaristics:essence:2",
-      "text": "Water souls go with the flow of energies, the flow of sentiments and the flow of the blood.$(br)They have one of the strongest connections to life and purity."
+      "text": "水之灵魂与能量流动。情感流动以及血液流动息息相关。$(br)它们与生命以及纯洁有着最紧密的联系。"
     },
     {
       "type": "spotlight",
-      "title": "Magan Soul",
+      "title": "源力灵魂",
       "item": "elementaristics:essence:5",
-      "text": "Unlike the other common souls, the magan soul was not majorly influenced by one aspect, but by multiple aspects.$(br)Although this removed all professions, it granted them a healthy repertoire of magical power."
+      "text": "不像其它的普通灵魂, 源力灵魂所产生的影响不局限于单方面, 而是散播与多方面之中。$(br)尽管它们没有某一方面的专长, 但它们在魔力操控方面上拥有得天独厚的潜力。"
     },
     {
       "type": "text",
-      "title": "Rare Souls",
-      "text": "The $(marked)Rare Souls$() are often built incorrectly or were lowly manipulated by an external force (of the special kind, mind you). $(br)People with rare souls often get interesting advantages at a cost."
+      "title": "稀有灵魂",
+      "text": "$(marked)稀有灵魂$()通常是在构建之初就有些许问题，或者是在操控外界事物的能力显得尤为孱弱(提醒一下，这里指的是特定的方面。)。 $(br)拥有稀有灵魂的人通常会可以通过花费一定的代价来换取一些奇妙的长处。"
     },
     {
       "type": "spotlight",
-      "title": "Mana Soul",
+      "title": "魔力灵魂",
       "item": "elementaristics:essence:17",
-      "text": "Mana souls have received an unhealthy amount of mana upon creation.$(br)Although this mana grants an immense capacity for magan, it interferes with other important functions, such as emotions.$(br)People with mana souls will still perceive the emotion; however, they will not $(o)feel$() it."
+      "text": "魔力灵魂在创生之初就受到了魔力的侵染，且侵染量已经足以影响其正常发育。$(br)虽然这股魔力使得受其影响的灵魂拥有庞大的源力储存量，但作为代价，它会干扰灵魂中的其它重要的功能，比如情感。$(br)拥有魔力灵魂的人仍然可以察觉到情绪; 然而，他们无法$(o)感受$()情绪。"
     },
     {
       "type": "spotlight",
-      "title": "Unstable Soul",
+      "title": "失稳灵魂",
       "item": "elementaristics:essence:13",
       "text": "When the Silver Thread of a soul is damaged, the mind of the future inheritor is damaged, too. When this happens, an Unstable Soul is born.$(br)These souls have broken boundaries, which can have beneficial effects, but also harms $(t:This can also express as Warp)sanity$()."
     },
