@@ -1,4 +1,4 @@
-jei.wizardry.category.mana_crafting=Mana Crafting
+jei.wizardry.category.mana_crafting=魔力合成
 
 tile.wizardry:crafting_plate.name=合成台
 tile.wizardry:magicians_worktable.name=铭文桌
@@ -59,7 +59,7 @@ item.wizardry:fairy_dust.name=精灵尘
 item.wizardry:fairy_imbued_apple.name=精灵激活苹果
 item.wizardry:fairy_wings.name=精灵翼
 item.wizardry:unicorn_horn.name=独角兽角
-item.wizardry:unicorn_dagger.name=独角兽角的匕首
+item.wizardry:unicorn_dagger.name=独角匕首
 item.wizardry:jar.name=罐子
 item.wizardry:jar_empty.name=空罐子
 item.wizardry:jar_fairy.name=罐中精灵
@@ -96,7 +96,7 @@ item.wizardry:sky_dust.name=天空尘
 item.wizardry:glue_stick.name=胶棒
 item.wizardry:blackened_spirit.name=漆黑灵魂
 item.wizardry:ring.name=指环
-item.wizardry:pearl_belt.name=珍珠带
+item.wizardry:pearl_belt.name=炫珠皮带
 
 item.wizardry:fairy_bell=精灵铃
 item.wizardry:fairy_bell_moving_mode=精灵铃铛[模式：移动精灵]
@@ -413,7 +413,7 @@ wizardry.table.load_desc=加载巫师宝典中最后一个法术。
 wizardry.table.clear_desc=清除纸上的所有法术构件。
 wizardry.table.save_desc=将法术配方存储到你的巫师宝典中。
 wizardry.table.save_error=你的物品栏里没有巫师宝典！把宝典放进你的物品栏才可以正确地保存法术配方。
-wizardry.table.no_component_error=A component was in your table that was removed from the mod! The table has been (mostly) cleared to prevent crashes.
+wizardry.table.no_component_error=工作台中包含有已被移除的构件! 所有的组件将会被移除（几乎），以防止崩溃。
 
 wizardry.book.shift_scroll=Shift滚轮来翻页
 wizardry.book.open_recipe_tab=打开配方选项卡查看更多细节
@@ -468,7 +468,7 @@ wizardry.book.steps.spell_creation.content6=当你满意了你的法术后，点
 wizardry.book.steps.spell_creation.content7=现在你已经保存了你的法术，在书的书签里检查你的法术的配方。你会看到一列的物品，这些是你需要收集，然后&o&l按顺序&r丢进合成台里。 把你的魔力电池填充上魔力，然后丢入你的炫珠到合成台里，等待几分钟。你会看到魔力的爆发从你的环绕在合成平台的炫珠上。现在你已经有一颗灌注了法术的炫珠了。让它与空法杖在合成台里合成，然后你就可以用你的法杖去施展你的魔法啦！祝贺啦，我的朋友。你现在已经是一名巫师了。在你第一次使用魔法时，我开始当心那些小动物的安危了。
 
 wizardry.book.items_blocks.book.title=织法宝典
-wizardry.book.items_blocks.book.content0=织法宝典是一部汇集了我所有可教授给你的知识的书, 虽然它只是"阿卡西记录"的一个微不足道的影子，但所有的魔法都起源于它。将一本书丢入魔力液体中，将会为其注入灵性, 以天使之血为媒介，连接到所有知识的源头。 这本书包含了你在研习巫师艺术时所需要的所有隐秘知识, 同时也提供了空白的页面给你书写法术。这些页面也会提示你制作法术所需要的原料。你可以在巫师工作台上编写法术，并将其复制到宝典上。
+wizardry.book.items_blocks.book.content0=织法宝典是一部汇集了我所有可教授给你的知识的书, 虽然它只是"阿卡西记录"的一个微不足道的影子，但所有的魔法都起源于它。将一本书丢入魔力液体中，将会为其注入智慧, 它将以以天使之血为媒介，连接到所有知识的源头。 这本书包含了你在研习巫师艺术时所需要的所有隐秘知识, 同时也提供了空白的页面给你书写法术。这些页面也会提示你制作法术所需要的原料。你可以在巫师工作台上编写法术，并将其复制到宝典上。
 
 wizardry.book.items_blocks.devil_dust.title=恶魔尘
 wizardry.book.items_blocks.devil_dust.content0=&o恶魔尘是从红石粉纯化而来的，它用于魔法传导而不是电力传导。&r
@@ -486,28 +486,28 @@ wizardry.book.items_blocks.wisdom_wood.title=智慧树
 wizardry.book.items_blocks.wisdom_wood.content0=&o正因为智慧树是一种寄生性的，以魔力为养料的树木，它可以被有效地用来制作承载魔力能量的物品。如果能用处理过的智慧木制作学徒斗篷，你就不必大费周章，亲自施法。&r
 wizardry.book.items_blocks.wisdom_wood.content1=只需要将这些原木投入到魔力液中，任何种类的原木都能转化为智慧树原木。
 
-wizardry.book.items_blocks.magicians_worktable.title=Magician's Worktable
-wizardry.book.items_blocks.magicians_worktable.content0=While some are able to create spells on the fly, you will need to plan out what you want your spell to do first. The Magician's Worktable provides a convenient space to map out the behavior, and allows you to easily transfer those plans into the Spellforger's Codex. In doing so, the Codex will reveal the items and order needed to create the spell in the Crafting Altar, in a manner even you should be able to understand. For more in-depth information on how the Worktable functions, go review step 5 of "The 5 Steps to Becoming a Wizard"
+wizardry.book.items_blocks.magicians_worktable.title=巫师工作台
+wizardry.book.items_blocks.magicians_worktable.content0=当你已经做好了法术编写的准备时, 你得考虑一下你的法术首先要干什么。巫师工作台提供了一个便捷方式，让你来制定法术的行为, 并且还能让你轻松地把你的计划转写入你的织法宝典中。如果你这样做了，织法宝典将会显示出法术所需的材料以及在合成祭坛上放入的顺序, 在某种程度上，即便是你也能看明白上线写的是什么。想要更 深入的了解这些信息，以及学习工作台具体的工作方式, 你应该复习一下 "成为巫师的五个步骤"的第五个步骤。
 
-wizardry.book.items_blocks.crafting_plate.title=Crafting Plate
-wizardry.book.items_blocks.crafting_plate.content0=The crafting plate is the core of the crafting altar; it holds the ingredients needed to create your spell and infuses them into the nacre pearl using the mana provided. See step 4 of “The 5 Steps To Becoming A Wizard” for a full explanation on how the structure works.
+wizardry.book.items_blocks.crafting_plate.title=合成台
+wizardry.book.items_blocks.crafting_plate.content0=合成板是合成祭坛的核心; 它负责存储你所用来制作法术的材料，并将这些材料连同魔力一起注入到炫珠当中。 "成为巫师的五个步骤"的第四个步骤将会完整解释这一结构如何工作。
 
-wizardry.book.items_blocks.mana_battery.title=Mana Battery
-wizardry.book.items_blocks.mana_battery.content0=The mana battery is, self-explanatorily, a crystal capable of storing mass amounts of mana. It is created by infusing a diamond with soul sand via devil dust, along with consuming nine source blocks of mana. This combination will form a crystal with the required capabilities, although the input and extraction of mana requires the use of a structure highlighted in part four of “The 5 Steps To Becoming A Wizard.”
+wizardry.book.items_blocks.mana_battery.title=魔力电池
+wizardry.book.items_blocks.mana_battery.content0=不用多费口舌，魔力电池是一块能够储存大量魔力的水晶。你可以用恶魔尘的特性来将灵魂沙注入到钻石当中, 此过程会消耗9格魔力液体，之后就可以制造出魔力电池。这一水晶会提供给我们我们所需的那种储存魔力的能力, 但想要输入或导出其中的魔力，还得需要在 “成为巫师的五个步骤”的第四步中所记录的多方块结构。
 
 wizardry.book.items_blocks.crude_halo.title=粗糙光环
 wizardry.book.items_blocks.crude_halo.content0=&o粗糙光环在神学之中是坏的表现. 而且它的能力远不及天使的恩惠， 它···· 的工作是存储魔力，我是指没有戴上它的情况下。&r
 wizardry.book.items_blocks.crude_halo.content1=如果你喜欢穿戴饰品，你可以把他戴上你的头盔旁边。或者，用它来代替你的头盔。它看上去并没有像它的完全版本那样花哨，但它依然能发挥作用。
 
-wizardry.book.items_blocks.nacre_pearl.title=Nacre Pearl
-wizardry.book.items_blocks.nacre_pearl.content0=Nacre pearls are at the core of a wizard’s arsenal. The structure of these pearls accepts spells readily, and allows you to cast that spell by drawing mana through them. To be able to do so, craft a pearl together with a staff, or press the pearl-swapping key if you have a pearl belt equipped. For more info on Nacre pearls, see the third part of “The 5 Steps To Becoming A Wizard.”
+wizardry.book.items_blocks.nacre_pearl.title=炫珠
+wizardry.book.items_blocks.nacre_pearl.content0=炫珠是巫师武器的核心。炫珠的结构使得它能够较为容易的接受法术写入, 并且能让你通过引导你的魔力而释放出内置的法术。想要这样做, 将炫珠与法杖合成一下, 又或者如果你装备了炫珠皮带，你可以按下炫珠切换键来选择你想要切换的炫珠。想要了解更多的关于炫珠的知识, 查阅 “成为巫师的五个步骤”中的第三步。
 
-wizardry.book.items_blocks.pearl_belt.title=Pearl Belt
+wizardry.book.items_blocks.pearl_belt.title=炫珠皮带
 wizardry.book.items_blocks.pearl_belt.content0=As you have diversified your spells, you have no doubt noticed the inconvenience associated with changing between them. Pulling out the old pearl and putting in the new one wastes valuable time, and carrying many staves around leaves you much less room to work with. There exists an item called the Pearl Belt, which allows you to store nacre pearls for quick and fluid swapping in and out of your staff.<br><br>To add pearls to the belt, simply use the belt, and its imbued magic will tell you the rest of the process. It is quite foolproof, so don't worry. Then, use your pearl-swapping key to swap pearls while holding the staff.
 
 wizardry.book.items_blocks.orbs.title=魔力珠
-wizardry.book.items_blocks.orbs.content0=玻璃珠是用于捕捉珍珠母液与魔力的物品，能够从那些拥有特性力量的液体中获得彩色的炫珠或无价的魔力珠。
-wizardry.book.items_blocks.orbs.content1=魔力珠是通过把玻璃珠丢到魔力液中。 <br> 另一方面炫珠的制作需要很精准。要想得到最好品质的炫珠你可以参考一下一名巫师的篇章里的步骤 3 ：珍珠母。
+wizardry.book.items_blocks.orbs.content0=玻璃珠可以吸取珍珠母液或者魔力当中的能量，变化为炫珠或者魔力珠。
+wizardry.book.items_blocks.orbs.content1=魔力珠是通过把玻璃珠丢到魔力液中。 <br> 另一方面炫珠的制作需要很精准。要想得到最好品质的炫珠你可以参考一下成为一名巫师的篇章里的步骤 3 ：珍珠母液。
 wizardry.book.items_blocks.orbs.content2=Wizards who find themselves clumsily stumbling into mana pools on the ground will notice the strange inverse gravity granted to them for a few moments. There is a way to harness this into something useful, however. Putting a small amount of iron into an orb full of mana will filter the liquid, drawing from it the majority of its magical effects, and leaving an Orb of Levitation. The orb will quickly decay, so use it wisely.
 
 wizardry.book.items_blocks.staff.title=Staff
