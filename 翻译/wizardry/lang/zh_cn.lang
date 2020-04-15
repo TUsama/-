@@ -467,20 +467,20 @@ wizardry.book.steps.spell_creation.content5=法术在刚开始的时候都很弱
 wizardry.book.steps.spell_creation.content6=当你满意了你的法术后，点击右上方的 &o保存&r 按钮就会将你的法术配方输入到你的法典中。你会在你法典中看到一个新的书签，这个是有关你的法术构建是的配方。所以在你写法术的时候，确保你有带着你的法典。
 wizardry.book.steps.spell_creation.content7=现在你已经保存了你的法术，在书的书签里检查你的法术的配方。你会看到一列的物品，这些是你需要收集，然后&o&l按顺序&r丢进合成台里。 把你的魔力电池填充上魔力，然后丢入你的炫珠到合成台里，等待几分钟。你会看到魔力的爆发从你的环绕在合成平台的炫珠上。现在你已经有一颗灌注了法术的炫珠了。让它与空法杖在合成台里合成，然后你就可以用你的法杖去施展你的魔法啦！祝贺啦，我的朋友。你现在已经是一名巫师了。在你第一次使用魔法时，我开始当心那些小动物的安危了。
 
-wizardry.book.items_blocks.book.title=Spellforger's Codex
-wizardry.book.items_blocks.book.content0=The Spellforger’s Codex is the sum of my teachings to you, although it is a paltry shadow of the Akashic Record all Wizardry descends from. Simply throwing a book into mana will infuse it with Wisdom, connecting it to the source of knowledge through the angel blood. This book holds all secrets you shall need for the art of Wizardry, and provides blank pages for you to record your spellcraft. These pages will also tell you the ingredients for your spells. Simply copy your spell into the book from the Magician’s Worktable to have the recipe displayed on the pages.
+wizardry.book.items_blocks.book.title=织法宝典
+wizardry.book.items_blocks.book.content0=织法宝典是一部汇集了我所有可教授给你的知识的书, 虽然它只是"阿卡西记录"的一个微不足道的影子，但所有的魔法都起源于它。将一本书丢入魔力液体中，将会为其注入灵性, 以天使之血为媒介，连接到所有知识的源头。 这本书包含了你在研习巫师艺术时所需要的所有隐秘知识, 同时也提供了空白的页面给你书写法术。这些页面也会提示你制作法术所需要的原料。你可以在巫师工作台上编写法术，并将其复制到宝典上。
 
 wizardry.book.items_blocks.devil_dust.title=恶魔尘
 wizardry.book.items_blocks.devil_dust.content0=&o恶魔尘是从红石粉纯化而来的，它用于魔法传导而不是电力传导。&r
 
-wizardry.book.items_blocks.fairy_dust.title=Fairy Dust
-wizardry.book.items_blocks.fairy_dust.content0=Upon killing a fairy, found in the underworld, it will often leave behind some of its essence, in the form of fairy dust. This potent dust is a key ingredient in many magical reagents, such as sky dust, due to the link it has to the concept the fairy was created from.
+wizardry.book.items_blocks.fairy_dust.title=精灵尘
+wizardry.book.items_blocks.fairy_dust.content0=你可以在下世界找到并杀死精灵, 它们在死后总会留下一些它们的本源，这些本源以尘埃的形式存在。由于它与能够创造精灵的“概念”有着关联，所以它是很多魔法试剂的关键材料, 譬如天空尘。
 
-wizardry.book.items_blocks.sky_dust.title=Sky Dust
-wizardry.book.items_blocks.sky_dust.content0=Devil dust represents adhesion, so naturally, sky dust represents the conceptual opposite: repulsion. Sky dust is created by throwing fairy dust into fire, burning away the magic and leaving only the aimless freedom the fairy represents. By itself, it has negligible effects. However, it is a very potent reagent for arcane purposes.
+wizardry.book.items_blocks.sky_dust.title=天空尘
+wizardry.book.items_blocks.sky_dust.content0=恶魔尘象征着聚合, 这很符合我们的直觉, 天空尘则对应着其反面: 排斥. 将精灵尘丢进火中可以制作天空尘, 在此过程中，精灵尘内的魔力被烧灼而空，留下了象征了精灵的那种漫无目的的自由。如果只有一点点的量，所产生的效果微不足道。然而，在要想达到某些特定的，在魔法层面上的目的时，它所具有的潜力无法忽视。
 
-wizardry.book.items_blocks.wisdom_sapling.title=Wisdom Sapling
-wizardry.book.items_blocks.wisdom_sapling.content0=Wisdom is a property of magic. It is the innate potential to use mana, the potential to be more than mundane. While you might lack Wisdom, it just so happens that trees soak mana up rather nicely. In the process, they gain Wisdom, and so a standard sapling can be made into a Wisdom Wood Sapling by soaking it in mana.
+wizardry.book.items_blocks.wisdom_sapling.title=智慧树苗
+wizardry.book.items_blocks.wisdom_sapling.content0=智慧是一种与魔法相关的属性。它使得你拥有了这种先天的，使用魔力的潜能, 这种潜能远比凡俗的能力重要。 可能你缺乏智慧, 但树木吸收魔力的能力相当出色。在这个过程中，它们获得了智慧, 所以你可以通过向魔力池中丢入普通树苗而将其转化为智慧树苗。
 
 wizardry.book.items_blocks.wisdom_wood.title=智慧树
 wizardry.book.items_blocks.wisdom_wood.content0=&o正因为智慧树是一种寄生性的，以魔力为养料的树木，它可以被有效地用来制作承载魔力能量的物品。如果能用处理过的智慧木制作学徒斗篷，你就不必大费周章，亲自施法。&r
