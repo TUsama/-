@@ -56,7 +56,7 @@ item.wizardry:debugger.name=创造模式法杖
 item.wizardry:staff.name=法杖
 item.wizardry:staff_pearl.name=带珍珠的法杖
 item.wizardry:fairy_dust.name=精灵尘
-item.wizardry:fairy_imbued_apple.name=精灵激活苹果
+item.wizardry:fairy_imbued_apple.name=精灵苹果
 item.wizardry:fairy_wings.name=精灵翼
 item.wizardry:unicorn_horn.name=独角兽角
 item.wizardry:unicorn_dagger.name=独角匕首
@@ -80,7 +80,7 @@ item.wizardry:syringe_mana.desc=回魔50%。
 item.wizardry:syringe_steroid.name=高级魔力构造精华Plus™
 item.wizardry:syringe_steroid.desc0=完全回魔并消除施法疲劳10秒，在此期间忽视施法魔力消耗
 item.wizardry:syringe_steroid.desc1=伴随着严重副作用。
-item.wizardry:syringe_steroid.desc2=&o仿佛火焰在灼烧你的血液。
+item.wizardry:syringe_steroid.desc2=&o烈火焚身
 item.wizardry:mana_orb.name=魔力宝珠
 item.wizardry:glass_orb.name=玻璃珠
 item.wizardry:cape.name=斗篷
@@ -541,7 +541,7 @@ wizardry.book.items_blocks.unicorn_horn.content0=独角兽拥有非凡的战斗�
 wizardry.book.items_blocks.unicorn_dagger.title=独角匕首
 wizardry.book.items_blocks.unicorn_dagger.content0=独角兽角是一种强大的治疗工具，但要驾驭这种治疗能力需要极为丰富的魔法和医学知识。然而，使用这种力量去伤害别人比治愈别人要容易得多。为断角添加上石英涂层和金做的手柄，并使用恶魔尘来完成这一过程，断角就变成了一把匕首，它能够以独角兽曾经拥有的神秘力量进行攻击。
 
-wizardry.book.items_blocks.fairy_imbued_apple.title=Fairy Imbued Apple
+wizardry.book.items_blocks.fairy_imbued_apple.title=精灵苹果
 wizardry.book.items_blocks.fairy_imbued_apple.content0=我们可以尝试去改变其它种类的魔法。金苹果中所蕴涵的魔法与我们的魔法体系相距甚远, 但我们可以将我们的工作应用于其上。使用精灵尘以及精灵翼, 你可以创造出一个能够增强你力量的苹果, 但不像带有金子的苹果那样能够提供治愈能量, 这个苹果会给予你那些被你屠杀的细小生物所带有的自由。
 
 wizardry.book.items_blocks.nacre_block.title=炫珠块
