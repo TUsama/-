@@ -104,7 +104,7 @@ item.wizardry:fairy_bell_aiming_mode=精灵铃铛[模式：瞄准精灵]
 item.wizardry:fairy_bell.status.deselected=精灵取消选择
 item.wizardry:fairy_bell.status.fairy_moving=精灵被选中。[模式：精灵移动]
 item.wizardry:fairy_bell.status.fairy_aiming=精灵被选中。[模式：精灵瞄准]
-item.wizardry:fairy_bell.status.linked_to_fairy=Fairy bound to this entity
+item.wizardry:fairy_bell.status.linked_to_fairy=精灵已与该实体绑定
 
 item.wizardry:glass_orb.fill.0.name=玻璃珠
 item.wizardry:mana_orb.fill.0.name=0% 魔力珠
@@ -119,17 +119,17 @@ item.wizardry:mana_orb.fill.80.name=80% 魔力珠
 item.wizardry:mana_orb.fill.90.name=90% 魔力珠
 item.wizardry:mana_orb.fill.100.name=100% 魔力珠
 
-item.wizardry:levitation_orb.fill.0.name=悬浮球0%
-item.wizardry:levitation_orb.fill.10.name=悬浮球10%
-item.wizardry:levitation_orb.fill.20.name=悬浮球20%
-item.wizardry:levitation_orb.fill.30.name=悬浮球30%
-item.wizardry:levitation_orb.fill.40.name=悬浮球40%
-item.wizardry:levitation_orb.fill.50.name=悬浮球50%
-item.wizardry:levitation_orb.fill.60.name=悬浮球60%
-item.wizardry:levitation_orb.fill.70.name=悬浮球70%
-item.wizardry:levitation_orb.fill.80.name=悬浮球80%
-item.wizardry:levitation_orb.fill.90.name=悬浮球90%
-item.wizardry:levitation_orb.fill.100.name=悬浮球100%
+item.wizardry:levitation_orb.fill.0.name=悬浮珠0%
+item.wizardry:levitation_orb.fill.10.name=悬浮珠10%
+item.wizardry:levitation_orb.fill.20.name=悬浮珠20%
+item.wizardry:levitation_orb.fill.30.name=悬浮珠30%
+item.wizardry:levitation_orb.fill.40.name=悬浮珠40%
+item.wizardry:levitation_orb.fill.50.name=悬浮珠50%
+item.wizardry:levitation_orb.fill.60.name=悬浮珠60%
+item.wizardry:levitation_orb.fill.70.name=悬浮珠70%
+item.wizardry:levitation_orb.fill.80.name=悬浮珠80%
+item.wizardry:levitation_orb.fill.90.name=悬浮珠90%
+item.wizardry:levitation_orb.fill.100.name=悬浮珠100%
 
 item.wizardry:wisdom_stick.name=灵慧树木棍
 item.wizardry:wisdom_wood_door.name=灵慧树木门
@@ -154,7 +154,7 @@ advancement.wizardry.devildust.desc=将红石扔进火里制作恶魔尘
 advancement.wizardry.crunch=§o嘎吱嘎吱嘎吱§r
 advancement.wizardry.crunch.desc=直接冲到基岩，去下世界的顶端
 
-fluid.nacre_fluid=珍珠母液
+fluid.nacre_fluid=炫珠母液
 fluid.mana_fluid=魔力
 
 death.attack.wizardry.mana=%s 被力量所反噬
@@ -170,7 +170,7 @@ subtitle.wizardry.bubbling=液体冒泡
 subtitle.wizardry.spirit_wight=鬼灵低语
 subtitle.wizardry.spirit_blight=鬼灵进攻
 subtitle.wizardry.electric_white_noise=电音白噪
-subtitle.wizardry.sparkle=明亮的声音
+subtitle.wizardry.sparkle=清亮的声音
 
 potion.wizardry.crash=崩裂
 potion.wizardry.low_gravity=羽落
@@ -213,7 +213,7 @@ wizardry.spell.effect_backup.name=效果：后备援军
 wizardry.spell.effect_backup.desc=召唤亡灵生物加入战斗。
 wizardry.spell.effect_backup.desc.duration=召唤持续 <DURATION> 秒的僵尸。
 wizardry.spell.effect_break.name=效果：破碎
-wizardry.spell.effect_break.desc=破坏方块，损坏护甲。
+wizardry.spell.effect_break.desc=破坏方块，损坏护甲
 wizardry.spell.effect_break.desc.area=破坏 <AREA> 内的方块。对实体无效。
 wizardry.spell.effect_break.desc.potency=破坏挖掘等级少于 <POTENCY> 的方块。对目标盔甲造成 <POTENCY> 的伤害。
 wizardry.spell.effect_burn.name=效果：燃烧
@@ -442,10 +442,10 @@ wizardry.book.steps.garbs.content0=当你注射了魔力，你可能会感到困
 wizardry.book.steps.garbs.content1=接下来是斗篷。 斗篷不是存储魔力的东西，但它是魔力输送的渠道，它能够协助巫师魔力传导以及减少魔力消耗。一旦你制作出了属于你的斗篷后就穿上它，不要把它脱下来。 随着穿着时间的增长变强。 起初，它几乎不会减少你使用魔法时的消耗，但是在你长时间佩戴之后，它可以将魔力消耗降低到原来的四分之一。
 wizardry.book.steps.garbs.content2=斗篷或许很漂亮和强力，但它们很薄情。它们很容易抛弃它们的忠诚到另外一个人上，对它们来说自己的巫师与其他巫师是一样的。如果你能够欺骗那些斗篷的主人拿到它们的斗篷，就能像是属于你的而且已经穿戴了好几年一样。 <br> 所以如果你能在别人快速冷掉的身体上找都一件美丽、飘拂的斗篷的话，把它脱下来穿上其实没有任何危害的。真的，谁会管那些人的死活呢？斗篷就是一件斗篷而已。
 
-wizardry.book.steps.nacre.title=步骤 3 ：珍珠母液
+wizardry.book.steps.nacre.title=步骤 3 ：炫珠母液
 wizardry.book.steps.nacre.desc=学习有关炫珠和它们奇特的属性
-wizardry.book.steps.nacre.content0=珍珠母液是一种非常浓密，苍白，呈虹彩的液体，而炫珠是由珍珠母液所形成的，它能够完美地控制魔力。为了获得这种液体，只需扔下一颗金粒到魔力液体中，它们会混合在一起变成一种华丽的的新东西。 <br> 现在，至于为什么你想要这个：用它你可以创造出“炫珠”，而炫珠可以承载法术。
-wizardry.book.steps.nacre.content1=要制作炫珠，需要将玻璃珠投入到这种乳白色的液体之中。炫珠制作过程中质量有六种等级。分为无用、枯竭、瑕疵、优良、强效、完美。无用是最糟糕的情况。理想情况下你能够获得完美的炫珠，但这要非常细心以及努力才能够制作出来。无用的炫珠制作出来的法术非常弱以及会消耗更多的魔力。想好获得最高质量的炫珠，你必须保持的玻璃珠在珍珠母液之中浸泡&o恰好&r30秒。多了或少了质量都会因此减少。这不是必须要的，当然完美炫珠是最好的，但你可能只会做出强效以及优良炫珠出来。 <br> 你会在之后的法术的注魔之中使用到这些炫珠。
+wizardry.book.steps.nacre.content0=炫珠母液是一种非常浓密，苍白，呈虹彩的液体，而炫珠是由炫珠母液所形成的，它能够完美地控制魔力。为了获得这种液体，只需扔下一颗金粒到魔力液体中，它们会混合在一起变成一种华丽的的新东西。 <br> 现在，至于为什么你想要这个：用它你可以创造出“炫珠”，而炫珠可以承载法术。
+wizardry.book.steps.nacre.content1=要制作炫珠，需要将玻璃珠投入到这种乳白色的液体之中。炫珠制作过程中质量有六种等级。分为无用、枯竭、瑕疵、优良、强效、完美。无用是最糟糕的情况。理想情况下你能够获得完美的炫珠，但这要非常细心以及努力才能够制作出来。无用的炫珠制作出来的法术非常弱以及会消耗更多的魔力。想好获得最高质量的炫珠，你必须保持的玻璃珠在炫珠母液之中浸泡&o恰好&r30秒。多了或少了质量都会因此减少。这不是必须要的，当然完美炫珠是最好的，但你可能只会做出强效以及优良炫珠出来。 <br> 你会在之后的法术的注魔之中使用到这些炫珠。
 
 wizardry.book.steps.structures.title=步骤 4 ：多方块结构
 wizardry.book.steps.structures.desc=学习有关这些你需要建造的多方块结构
@@ -506,8 +506,8 @@ wizardry.book.items_blocks.pearl_belt.title=炫珠皮带
 wizardry.book.items_blocks.pearl_belt.content0=当你拥有了各种各样的法术后, 你肯定已经注意到了在不同法术之间进行更改所带来的不便。摘下旧的炫珠，然后更换上新的炫珠，这一过程损耗了大量的珍贵时间, 而带着很多的法杖又会占用你的背包空间。你可以使用一个叫做炫珠皮带的物品,它可以帮你储存炫珠，且可以让你顺畅自如地更换发张上的炫珠。<br><br>想要向皮带内添加炫珠, 右键使用皮带, 蕴藏在其中的魔力会告诉你下一步的操作。这简直是傻瓜都会使用, 你不必为此担心。 你还可以按下“炫珠交换”键来快速切换炫珠。
 
 wizardry.book.items_blocks.orbs.title=魔力珠
-wizardry.book.items_blocks.orbs.content0=玻璃珠可以吸取珍珠母液或者魔力当中的能量，变化为炫珠或者魔力珠。
-wizardry.book.items_blocks.orbs.content1=魔力珠是通过把玻璃珠丢到魔力液中。 <br> 而炫珠的制作需要很精准控制其浸泡时间。要想得到最好品质的炫珠你可以参考一下成为一名巫师的篇章里的步骤 3 ：珍珠母液。
+wizardry.book.items_blocks.orbs.content0=玻璃珠可以吸取炫珠母液或者魔力当中的能量，变化为炫珠或者魔力珠。
+wizardry.book.items_blocks.orbs.content1=魔力珠是通过把玻璃珠丢到魔力液中。 <br> 而炫珠的制作需要很精准控制其浸泡时间。要想得到最好品质的炫珠你可以参考一下成为一名巫师的篇章里的步骤 3 ：炫珠母液。
 wizardry.book.items_blocks.orbs.content2=那些笨拙地跌倒在魔力池里的巫师会注意到自身发生的奇怪的反重力作用。我们可以利用这种特性来制造一些有用的小玩意。向100%魔力珠内放入少许铁可以过滤魔力珠内的液体, 从其中提取出它的魔力效果, 魔力珠就转变为了悬浮珠。这种珠子存在时间很短暂, 所以你得好好利用它。
 
 wizardry.book.items_blocks.staff.title=法杖
@@ -518,7 +518,7 @@ wizardry.book.items_blocks.real_halo.content0=粗糙光环让你初尝力量的�
 wizardry.book.items_blocks.real_halo.content1=这些充满了魔力的材料相互之间会发生反应，其反应物的效能极为接近真正的光环。这种光环可以容纳数倍于粗糙光环的魔力，并且还能够自我魔力再生, 这意味着你不再需要魔力注射器。 不过，要小心，虽然这个光环确实与真正的光环很接近，它仍然存在于物理层面上;它的威能使它成为那些抱有恶意的巫师去盗窃的首要目标。
 
 wizardry.book.items_blocks.cape.title=斗篷
-wizardry.book.items_blocks.cape.content0=一名巫师如果没有与其身份相对应的服饰，那他什么都不是。无论是字面上还是比喻上都是如此, 这也是为什么我们要人工仿制光环。斗篷是巫师服饰中最重要的元素之一, 穿上斗篷可以更容易地让魔法将你视为一名巫师。但这一适应过程需要花费一些时间, 你穿的越久，斗篷的效率也就越高。如果让它与你相伴足够时间，它可以将你的施法魔力消耗降低4倍。<br>它确实没必要成为你本质的一部分的. 斗篷就是斗篷，没人会在意谁是它的主人。可能你在魔法 技巧与实践上并不是很出色, 那你可以去寻找别的巫师佩戴的斗篷, 而且最好是佩戴了较长时间的那种, 然后毫不留情地占为己有。
+wizardry.book.items_blocks.cape.content0=一名巫师如果没有与其身份相对应的服饰，那他什么都不是。无论是字面上还是比喻上都是如此, 这也是为什么我们要人工仿制光环。斗篷是巫师服饰中最重要的元素之一, 穿上斗篷可以更容易地让魔法将你视为一名巫师。但这一适应过程需要花费一些时间, 你穿的越久，斗篷的效率也就越高。如果让它与你相伴足够时间，它可以将你的施法魔力消耗降低4倍。<br>它确实没必要成为你的一部分的. 斗篷就是斗篷，没人会在意谁是它的主人。可能你在魔法技巧与实践上并不是很出色, 那你可以去寻找别的巫师佩戴的斗篷, 而且最好是佩戴了较长时间的那种, 然后将其毫不留情地占为己有。
 
 wizardry.book.items_blocks.syringe.title=注射器
 wizardry.book.items_blocks.syringe.content0=获得原生魔法的方法只有这么多，作为一个缺乏天生灵慧的人，你不能单靠自己来掌握魔法。而魔力，尽管很有用，但如果不流淌于血液当中就对我们无甚帮助。所以你需要将 - 天使之血 - 注入到你的血流当中。注射是最具效率的一种方式。如果你戴着光环，将你的注意力集中到你的视野的右下角，你应该能够感觉到你血液中有多少未使用的魔力。
