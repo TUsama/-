@@ -4,13 +4,13 @@ tile.wizardry:crafting_plate.name=合成台
 tile.wizardry:magicians_worktable.name=铭文桌
 tile.wizardry:mana_battery.name=魔力电池
 tile.wizardry:creative_mana_battery.name=创造魔力电池
-tile.wizardry:nacre.name=珍珠母液
+tile.wizardry:nacre.name=炫珠母液
 tile.wizardry:mana.name=液态魔力
 tile.wizardry:cloud.name=云
 tile.wizardry:jar_block.name=罐子
-tile.wizardry:pearl_holder.name=珍珠容器
-tile.wizardry:nacre_block.name=珍珠母块
-tile.wizardry:nacre_block_brick.name=珍珠母砖
+tile.wizardry:pearl_holder.name=炫珠容器
+tile.wizardry:nacre_block.name=炫珠块
+tile.wizardry:nacre_block_brick.name=炫珠砖
 tile.wizardry:mana_magnet.name=魔力磁铁
 tile.wizardry:torikki_grass.name=看看草
 tile.wizardry:unicorn_trail.name=独角兽足迹
@@ -526,29 +526,29 @@ wizardry.book.items_blocks.syringe.content0=获得原生魔法的方法只有这
 wizardry.book.items_blocks.super_mana_booster.title=高级魔力构造精华Plus™
 wizardry.book.items_blocks.super_mana_booster.content0=到底是什么让你有了发明这种令人感到恶心的产品的想法？你把不该混合在一起的东西混在了一起!我甚至不能想象你为什么要把这种邪恶的混合物注射到你的血管里.....
 
-wizardry.book.items_blocks.vortex_bomb.title=Vortex Bomb
-wizardry.book.items_blocks.vortex_bomb.content0=Devil dust may bring adhesion, but its effects are negligible in its raw form. One of the easiest ways to make effects manifest in dust express themselves is to add gunpowder. Just mix the two and wrap them up in something akin to paper, and you will have a vortex bomb, an explosive that will create a brief, but powerful gravity well. Be warned, the range is very large, so it is not advised to use this near anything you wish to continue existing.
+wizardry.book.items_blocks.vortex_bomb.title=漩涡炸弹
+wizardry.book.items_blocks.vortex_bomb.content0=恶魔尘可能会引起一种粘附作用，但在未加工的情况下，其影响微不足道。使恶魔尘效果凸显的最简单的方法之一就是添加火药到其中。只要把这两种物质混合起来，用类似纸的东西把它们包裹起来，你就会得到一个漩涡炸弹，一种能产生短暂但强大引力的炸弹。请注意，它的爆炸范围非常大，因此不建议你在任何你所希望继续存在的东西的附近使用它。
 
-wizardry.book.items_blocks.repulsion_bomb.title=Repulsion Bomb
-wizardry.book.items_blocks.repulsion_bomb.content0=Naturally, the process used in the vortex bomb applies to sky dust as well. Unlike conventional explosives, which do still push you away, this repulsion bomb does not damage anything directly. The surge of power from the gunpowder is converted into a surge of repulsive force, bringing extra force to the shock wave. The range and power, like the vortex bomb, are quite large, so home use is not recommended.
+wizardry.book.items_blocks.repulsion_bomb.title=斥力炸弹
+wizardry.book.items_blocks.repulsion_bomb.content0=当然，漩涡炸弹使用的方法也适用于天空尘。它仍然在爆炸时把你推开，但它不像通常的炸弹，斥力炸弹不会直接破坏任何东西。火药产生的能量被转化为排斥力，增加了其冲击力。 与漩涡炸弹类似，它的射程和动力是相当大的，所以不建议在家中使用。
 
-wizardry.book.items_blocks.fairy_wings.title=Fairy Wings
-wizardry.book.items_blocks.fairy_wings.content0=Sometimes, when you break a fairy, it won't fully dissipate, leaving behind an intact pair of wings. Now, before you go thinking you can fly with these things - because that's always the first thing they try - these wings are miniscule, and aren't even capable of truly lifting the fairy, let alone a human. These wings do, however, contain more of the fairy's energy than the dust, and can be used as an ingredient.
+wizardry.book.items_blocks.fairy_wings.title=精灵翼
+wizardry.book.items_blocks.fairy_wings.content0=有时, 当你杀掉了一只精灵, 它不会完全消散, 而是留下了它的翅膀。现在，在你认为你可以用这些东西飞行之前——因为那总是人们尝试的第一件事——我必须提醒你，这些翅膀非常小，甚至不能真正承载精灵的重量，更不用说人类了。然而，这些翅膀确实比精灵尘含有更多的能量，因此可以作为一种原料使用。
 
-wizardry.book.items_blocks.unicorn_horn.title=Unicorn Horn
-wizardry.book.items_blocks.unicorn_horn.content0=Unicorns have notable battle prowess, owing this to their sharp horns. While they are often thought of as having magical healing properties, it is much easier to use them to take life than to give it. Unicorn horns are components for both spells and physical weapons, making them highly valuable.
+wizardry.book.items_blocks.unicorn_horn.title=独角兽角
+wizardry.book.items_blocks.unicorn_horn.content0=独角兽拥有非凡的战斗能力，这要归功于它们锋利的角。尽管它们的角通常被认为具有神奇的治疗功能，但用它们来夺取生命要比给予生命容易得多。独角兽角既可以作为施法道具的组成部分亦可作为物理武器的组成部分，因此它们非常有价值。
 
-wizardry.book.items_blocks.unicorn_dagger.title=Unicorn Dagger
-wizardry.book.items_blocks.unicorn_dagger.content0=A unicorn's horn is a powerful healing tool, but to harness that healing power requires incredible knowledge of magic and medicine. Instead, it is much easier to use that power to harm instead of heal. By binding the severed horn with a quartz coating and a golden hilt, and using devil dust to effect the process, the horn becomes a dagger capable of striking with the arcane potency the unicorn once possessed.
+wizardry.book.items_blocks.unicorn_dagger.title=独角匕首
+wizardry.book.items_blocks.unicorn_dagger.content0=独角兽角是一种强大的治疗工具，但要驾驭这种治疗能力需要极为丰富的魔法和医学知识。然而，使用这种力量去伤害别人比治愈别人要容易得多。为断角添加上石英涂层和金做的手柄，并使用恶魔尘来完成这一过程，断角就变成了一把匕首，它能够以独角兽曾经拥有的神秘力量进行攻击。
 
 wizardry.book.items_blocks.fairy_imbued_apple.title=Fairy Imbued Apple
-wizardry.book.items_blocks.fairy_imbued_apple.content0=It is possible to use alterations of other kinds of magic on our own. The magic which allows Golden Apples is far removed from our arts, but we can apply our own works on that power. By using fairy dust and wings, you can create an apple with the ability to empower you, but instead of the healing gold provides, the apple gives you the freedom and aimlessness of the wispy creatures slaughtered to create it.
+wizardry.book.items_blocks.fairy_imbued_apple.content0=我们可以尝试去改变其它种类的魔法。金苹果中所蕴涵的魔法与我们的魔法体系相距甚远, 但我们可以将我们的工作应用于其上。使用精灵尘以及精灵翼, 你可以创造出一个能够增强你力量的苹果, 但不像带有金子的苹果那样能够提供治愈能量, 这个苹果会给予你那些被你屠杀的细小生物所带有的自由。
 
-wizardry.book.items_blocks.nacre_block.title=Nacre Blocks
-wizardry.book.items_blocks.nacre_block.content0=Nacre has decorative uses as well. When fashioned into a solid cube, it looks quite pretty in addition to being structurally stable enough to not collapse in on itself. It is also solid enough to be fashioned into bricks. These blocks are purely decorative however, and serve no special purpose.
+wizardry.book.items_blocks.nacre_block.title=炫珠块
+wizardry.book.items_blocks.nacre_block.content0=珍珠层也有装饰作用。将它塑成一个立方块，它不仅结构足够稳定不会自己坍塌外，而且看起来相当漂亮。它也足够坚固，可以制成砖块。然而，这些方块仅仅作为装饰用，没有什么特殊的用途。
 
-wizardry.book.items_blocks.mana_magnet.title=Mana Magnet
-wizardry.book.items_blocks.mana_magnet.content0=This block currently has no use, but it may have one in the future.
+wizardry.book.items_blocks.mana_magnet.title=魔力磁铁
+wizardry.book.items_blocks.mana_magnet.content0=现在还没啥用，在未来会被赋予作用。
 
 wizardry.book.mobs.fairies.title=精灵
 wizardry.book.mobs.fairies.desc=在哪里找到它们，以及如何纯化它们
@@ -560,7 +560,7 @@ wizardry.book.mobs.spirit_wights.desc=不知名的漫游者与未完成的遗愿
 wizardry.book.mobs.spirit_wights.content1=我们对这些下世界土著生物所知甚少。那些不幸能够接触到它们的人很少能从中生还；总的来说，那些少数从中幸存下来的观察者更多看到的是它们如何快速的把那些巫师拆得十分均匀，而不是观察他们的活动的模式和行为。面对它们只有一个最好的建议是：如果看见它们，跑！不要停下来。
 wizardry.book.mobs.spirit_wights.content2=想要攻击一只鬼灵是可能。甚至理论上能够赢，就好像理论上第一次与龙战斗能赢是一样的。使用力量药水所造成的伤害已经证明能够影响到它们，现在这些事情都被测出来了。可能一个拥有异于常人的力量和能力的巫师制作的武器与盔甲强到能够成功地战胜它们。如果这个人是你，一定要告诉给人们；他们可能不会相信你的鬼话，但至少有人会知道的。
 wizardry.book.mobs.spirit_wights.content3=如果你决定去对抗它们 -- 老实说这里只有一个明智的选择 -- 以及不要被它们迟缓的样子所欺骗。鬼灵是慢和笨拙，但这只是掩盖它们无情的性质，只要巫师出现在鬼灵的视野里，它就会去狩猎你，直到世界的尽头。当你从它们那里逃出来后，不要放松警惕，看看你的背后。以及不要停下你的脚步。直到确定它们不会再追了。
-wizardry.book.mobs.spirit_wights.content4=这是有趣的最后一点，这些鬼灵保留了它们对于巫师的仇恨。众所周知，它们对其他生物没用兴趣。一只独角兽会去那些巫师恐惧去踏上的地方而且不会有危险。这里一定有一些原因在这方面，但谁会知道，这究竟是怎么一回事？
+wizardry.book.mobs.spirit_wights.content4=这是有趣的最后一点，这些鬼灵保留了它们对于巫师的仇恨。众所周知，它们对其他生物没用兴趣。一只独角兽会去那些巫师恐惧的地方而且不会有危险。这里一定有一些原因在这方面，但谁会知道，这究竟是怎么一回事？
 
 wizardry.book.mobs.unicorns.title=独角兽
 wizardry.book.mobs.unicorns.desc=被踢回主世界从来没有像现在这样容易
@@ -575,5 +575,5 @@ wizardry.book.dimensions.underworld.content2=在这个下世界里生命是很�
 wizardry.book.dimensions.underworld.content3=要去下世界，从超过 130 格高的地方跳下直到撞到基岩，你会直接落在下世界的顶部，但最好的情况是，你能够安全地落到这里的云上。
 
 wizardry.book.dimensions.torikki.title=Torikki
-wizardry.book.dimensions.torikki.desc=Learn about Torikki
-wizardry.book.dimensions.torikki.content0=Do not come here, it’s incomplete,<br> ---------- <br>There’s no way to get there unless you cheat.<br> ---------- <br>Don’t let your curiosity lead you down this path,<br> ---------- <br>All that awaits is file corruption and wrath.
+wizardry.book.dimensions.torikki.desc=学习有关Torikki的知识
+wizardry.book.dimensions.torikki.content0=别来，这地方还没有写完,<br> ---------- <br>除非使用指令否则是没办法到这里的。<br> ---------- <br>不要让好奇心害死你,<br> ---------- <br>你所能等来的只是存档崩溃以及随即而来的愤怒。
