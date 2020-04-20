@@ -471,7 +471,7 @@ wizardry.book.items_blocks.book.title=织法宝典
 wizardry.book.items_blocks.book.content0=织法宝典是一部汇集了我所有可教授给你的知识的书, 虽然它只是"阿卡西记录"的一个微不足道的影子，但所有的魔法都起源于它。将一本书丢入魔力液体中，将会为其注入灵慧, 它将以以天使之血为媒介，连接到所有知识的源头。 这本书包含了你在研习巫师艺术时所需要的所有隐秘知识, 同时也提供了空白的页面给你书写法术。这些页面也会提示你制作法术所需要的原料。你可以在巫师工作台上编写法术，并将其复制到宝典上。
 
 wizardry.book.items_blocks.devil_dust.title=恶魔尘
-wizardry.book.items_blocks.devil_dust.content0=&o恶魔尘是从红石粉纯化而来的，它用于魔法传导而不是电力传导。&r
+wizardry.book.items_blocks.devil_dust.content0=&o恶魔尘是从红石粉纯化而来的，它用于魔力传导而不是电力传导。&r
 
 wizardry.book.items_blocks.fairy_dust.title=精灵尘
 wizardry.book.items_blocks.fairy_dust.content0=你可以在下世界找到并杀死精灵, 它们在死后总会留下一些它们的本源，这些本源以尘埃的形式存在。由于它与能够创造精灵的“概念”有着关联，所以它是很多魔法试剂的关键材料, 譬如天空尘。
@@ -530,10 +530,10 @@ wizardry.book.items_blocks.vortex_bomb.title=漩涡炸弹
 wizardry.book.items_blocks.vortex_bomb.content0=恶魔尘可能会引起一种粘附作用，但在未加工的情况下，其影响微不足道。使恶魔尘效果凸显的最简单的方法之一就是添加火药到其中。只要把这两种物质混合起来，用类似纸的东西把它们包裹起来，你就会得到一个漩涡炸弹，一种能产生短暂但强大引力的炸弹。请注意，它的爆炸范围非常大，因此不建议你在任何你所希望继续存在的东西的附近使用它。
 
 wizardry.book.items_blocks.repulsion_bomb.title=斥力炸弹
-wizardry.book.items_blocks.repulsion_bomb.content0=当然，漩涡炸弹使用的方法也适用于天空尘。它仍然在爆炸时把你推开，但它不像通常的炸弹，斥力炸弹不会直接破坏任何东西。火药产生的能量被转化为排斥力，增加了其冲击力。 与漩涡炸弹类似，它的射程和动力是相当大的，所以不建议在家中使用。
+wizardry.book.items_blocks.repulsion_bomb.content0=当然，漩涡炸弹制作的方法也适用于天空尘。这样制作出的炸弹仍然在爆炸时把你推开，但它不像通常的炸弹，它不会直接破坏任何东西。火药产生的能量被转化为排斥力，因此其冲击力更胜通常炸弹一筹。 与漩涡炸弹类似，它的射程较远且斥力很大，所以不建议在家中使用。
 
 wizardry.book.items_blocks.fairy_wings.title=精灵翼
-wizardry.book.items_blocks.fairy_wings.content0=有时, 当你杀掉了一只精灵, 它不会完全消散, 而是留下了它的翅膀。现在，在你认为你可以用这些东西飞行之前——因为那总是人们尝试的第一件事——我必须提醒你，这些翅膀非常小，甚至不能真正承载精灵的重量，更不用说人类了。然而，这些翅膀确实比精灵尘含有更多的能量，因此可以作为一种原料使用。
+wizardry.book.items_blocks.fairy_wings.content0=有时, 当你杀掉了一只精灵, 它不会完全消散, 而是留下了它的翅膀。在你认为你可以用这些东西飞行之前——因为那总是人们尝试的第一件事——我必须提醒你，这些翅膀非常小，甚至不能真正承载精灵的重量，更不用说人类了。然而，这些翅膀确实比精灵尘含有更多的能量，因此可以作为一种原料使用。
 
 wizardry.book.items_blocks.unicorn_horn.title=独角兽角
 wizardry.book.items_blocks.unicorn_horn.content0=独角兽拥有非凡的战斗能力，这要归功于它们锋利的角。尽管它们的角通常被认为具有神奇的治疗功能，但用它们来夺取生命要比给予生命容易得多。独角兽角既可以作为施法道具的组成部分亦可作为物理武器的组成部分，因此它们非常有价值。
@@ -542,10 +542,10 @@ wizardry.book.items_blocks.unicorn_dagger.title=独角匕首
 wizardry.book.items_blocks.unicorn_dagger.content0=独角兽角是一种强大的治疗工具，但要驾驭这种治疗能力需要极为丰富的魔法和医学知识。然而，使用这种力量去伤害别人比治愈别人要容易得多。为断角添加上石英涂层和金做的手柄，并使用恶魔尘来完成这一过程，断角就变成了一把匕首，它能够以独角兽曾经拥有的神秘力量进行攻击。
 
 wizardry.book.items_blocks.fairy_imbued_apple.title=精灵苹果
-wizardry.book.items_blocks.fairy_imbued_apple.content0=我们可以尝试去改变其它种类的魔法。金苹果中所蕴涵的魔法与我们的魔法体系相距甚远, 但我们可以将我们的工作应用于其上。使用精灵尘以及精灵翼, 你可以创造出一个能够增强你力量的苹果, 但不像带有金子的苹果那样能够提供治愈能量, 这个苹果会给予你那些被你屠杀的细小生物所带有的自由。
+wizardry.book.items_blocks.fairy_imbued_apple.content0=我们可以尝试去改变其它种类的魔法。金苹果中所蕴涵的魔法与我们的魔法体系相距甚远, 但我们可以将我们的工作应用于其上。使用精灵尘以及精灵翼, 你可以创造出一个能够增强你力量的苹果, 但不像带有金子的苹果那样能够提供治愈能量, 这个苹果会给予你那些被你屠杀的细小生物所带有的，那种漫无目的的自由。
 
 wizardry.book.items_blocks.nacre_block.title=炫珠块
-wizardry.book.items_blocks.nacre_block.content0=珍珠层也有装饰作用。将它塑成一个立方块，它不仅结构足够稳定不会自己坍塌外，而且看起来相当漂亮。它也足够坚固，可以制成砖块。然而，这些方块仅仅作为装饰用，没有什么特殊的用途。
+wizardry.book.items_blocks.nacre_block.content0=炫珠也有装饰作用。将一些炫珠塑成一个立方块，它的结构足够稳定，不会自己坍塌，看起来也相当漂亮。它也足够坚固，可以制成砖块。然而，这些方块仅仅作为装饰用，没有什么特殊的用途。
 
 wizardry.book.items_blocks.mana_magnet.title=魔力磁铁
 wizardry.book.items_blocks.mana_magnet.content0=现在还没啥用，在未来会被赋予作用。
