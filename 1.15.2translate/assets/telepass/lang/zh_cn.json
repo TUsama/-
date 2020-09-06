@@ -1,0 +1,17 @@
+{
+    "_comment": "Config",
+    "config.telepass.gold_durability": "定义黄金传送通行证的使用次数 [default: 15]",
+    "config.telepass.diamond_durability": "定义钻石传送通行证的使用次数 [default: 1000]",
+
+    "_comment": "Creative Tab",
+    "itemGroup.telepass": "传送通行证",
+
+    "_comment": "Items",
+    "item.telepass.gold_telepass": "黄金传送通行证",
+    "item.telepass.diamond_telepass": "钻石传送通行证",
+
+    "_comment": "Messages",
+    "item.telepass.offline": "§c因为玩家§r %s §c处于离线状态, 传送被取消§r",
+    "item.telepass.self": "§c你不能对自己传送§r",
+    "item.telepass.dimension": "§c因为目标§r %s §c在另外一个维度，传送被取消§r"
+}

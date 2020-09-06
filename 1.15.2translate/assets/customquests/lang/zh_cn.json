@@ -8,8 +8,8 @@
   "customquests.command_warning": "请使用子命令！",
 
   "customquests.quest_completed": "任务完成！",
-  "customquests.label.unclaimed": "接受",
-  "customquests.label.claimed": "已接受！",
+  "customquests.label.unclaimed": "领取",
+  "customquests.label.claimed": "已领取！",
   "customquests.label.hand_in": "提交",
   "customquests.label.handed_in": "已提交！",
   "customquests.label.rewards": "奖励:",
