@@ -13,7 +13,7 @@
   "customquests.label.hand_in": "提交",
   "customquests.label.handed_in": "已提交！",
   "customquests.label.rewards": "奖励:",
-  "customquests.label.requirements": "需要:",
+  "customquests.label.requirements": "任务要求:",
 
   "customquests.editor.example_text0": "一些长文本",
   "customquests.editor.example_text1": "短横线",
@@ -25,7 +25,7 @@
   "customquests.requirement_type.crafting_detect": "需要合成物品",
   "customquests.requirement_type.kill_mob": "需要击杀敌对生物",
   "customquests.requirement_type.travel_to": "需要抵达位置",
-  "customquests.requirement_type.check_box": "Tick the box",
+  "customquests.requirement_type.check_box": "勾选选项",
   "customquests.requirement_type.rf_deliver": "需要供给RF",
   "customquests.requirement_type.rf_generate": "需要达到RF产能",
   "customquests.requirement_type.block_mine": "需要挖掘方块"
